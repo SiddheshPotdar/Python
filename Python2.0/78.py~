@@ -1,0 +1,15 @@
+from tkinter import *
+from tkinter import filedialog
+
+def saveFile():
+    file = filedialog.asksaveasfile()
+
+window = Tk()
+
+textarea = Text(window)
+textarea.pack()
+
+button = Button(window, text='Save', command=saveFile)
+button.pack()
+
+window.mainloop()

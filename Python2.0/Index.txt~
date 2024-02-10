@@ -1,0 +1,72 @@
+1 -> Print, variables, multiple assignments
+2 -> String methods
+3 -> Type casting
+4 -> Input
+5 -> Math module
+6 -> String slicing
+7 ->  if statements
+8 -> while statements
+9 -> for loop
+10 -> nested loops
+11 -> Patterns
+12 -> Loop Control statements
+13 -> Lists
+14 -> 2d lists
+15 -> tuples
+16 -> sets 
+17 -> dictionary
+18 -> index operator
+19 -> functions 
+20 -> return statemnts
+21 -> keyword arguments
+22 -> nested function calls
+23 --> scope
+24 -> args
+25 -> kwargs
+26 -> str.format()
+27 -> random
+28 -> excepiton handling
+29 -> os
+30  -> file read
+31 -> file wiret and append
+32 -> copy file
+33 -> move file
+34 -> delete file
+35 -> modules 
+36 -> rock, paper, scissor 
+37 -> quiz game 
+38 -> OOP
+39 -> Class variables
+40 -> Inheritance
+41 -> mulitilevel inhertance
+42 -> multiple Inheritance
+43-> method overriding
+44 -> method chaining
+45 -> super
+46 -> abastract class and methods
+47 -> Objects as arguments
+48 -> duck typing
+49 -> walrus operator
+50 -> function to variable
+51 -> higher order functions
+52 -> lambda function
+53 -> sort()
+54 -> map()
+55 -> filter()
+56 -> reduce()
+57 -> list comprehension
+58 -> dictionary comprehension
+59 -> zip function
+60 -> if __name__ = '__main__'
+61 -> time module
+62 -> multithreading
+63 -> daemon thread
+64 -> multiprocessing
+65 -> gui
+66 -> label
+67 -> button
+68 -> entry
+69 -> checkbox
+70 -> radiobutton
+71 -> scale
+72 -> List 

@@ -1,0 +1,3 @@
+Hello!
+This is newly created file.
+This line is added later to the file.
